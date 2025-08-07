@@ -2,6 +2,13 @@
 
 A simple yet powerful To-Do List application built using **Vue 3**. This app allows users to add, mark as complete, delete, and filter tasks. The data is persisted in the browser using **LocalStorage**. Perfect for beginners who want to learn Vue.js 3, reactivity, and basic component state management.
 
+[![Vue](https://img.shields.io/badge/Vue-3.x-brightgreen.svg)](https://vuejs.org/)
+[![Responsive](https://img.shields.io/badge/Responsive-Yes-ff69b4)](#)
+[![Made With](https://img.shields.io/badge/Made%20with-💚%20Vue--JS-42b883)](#)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/18b17337-ef35-4669-84e4-e7658a9d1acc/deploy-status)](https://app.netlify.com/projects/vue-weatherly-app/deploys)
+
+<img width="550" height="450" alt="image" src="https://github.com/user-attachments/assets/0c5d1495-5360-42b3-b459-645c5b7b6696" />
+
 ## 🚀 Features
 
 - ✅ Add new tasks
@@ -12,16 +19,6 @@ A simple yet powerful To-Do List application built using **Vue 3**. This app all
 - 🧮 Live task counts (total, active, completed)
 - 💾 Local storage support (data persists on refresh)
 - 💡 Clean UI with no external CSS libraries
-
-## 📸 Screenshot
-<img width="629" height="598" alt="image" src="https://github.com/user-attachments/assets/0c5d1495-5360-42b3-b459-645c5b7b6696" />
-
-## 🛠️ Tech Stack
-
-- [Vue.js 3 (Composition API)](https://vuejs.org/)
-- HTML + CSS (No Tailwind or Bootstrap)
-- JavaScript (ES6+)
-- LocalStorage
   
 # 📂 Installation Guide
 
